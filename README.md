@@ -37,9 +37,9 @@ To check THE ORIGINAL project, please follow the same steps but change the clone
 
 👤 Lucas Bermudez
 
-GitHub: @Oklukeok
-Twitter: @ok_Lukee
-LinkedIn: LinkedIn
+- GitHub: @Oklukeok
+- Twitter: @ok_Lukee
+- LinkedIn: LinkedIn
 
 ## 🤝 Contributing
 
