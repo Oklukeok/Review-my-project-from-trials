@@ -17,20 +17,20 @@
 
 To check this project, please follow this steps:
 
-On GitHub.com, navigate to the main page of the repository.
-Above the list of files, click the green "Code" button.
-Copy the URL for the repository.
-Open Git Bash.
-Change the current working directory to the location where you want the cloned directory.
-Type git clone, and then paste the URL you copied earlier: $ git clone git@github.com:Oklukeok/Review-my-project-from-trials.git
-Press Enter to create your local clone.
-Open the folder with your integrated development environment (IDE).
-You can check a live preview opening the HTML with a browser.
+- On GitHub.com, navigate to the main page of the repository.
+- Above the list of files, click the green "Code" button.
+- Copy the URL for the repository.
+- Open Git Bash.
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied earlier: $ git clone git@github.com:Oklukeok/Review-my-project-from-trials.git
+- Press Enter to create your local clone.
+- Open the folder with your integrated development environment (IDE).
+- You can check a live preview opening the HTML with a browser.
 
 To check THE ORIGINAL project, please follow the same steps but change the clone direction to 
-SHH: git@github.com:OsvaldoBC/challenge3.git
-HTTPS: https://github.com/OsvaldoBC/challenge3.git
-GITHub CLI: gh repo clone OsvaldoBC/challenge3
+- SHH: git@github.com:OsvaldoBC/challenge3.git
+- HTTPS: https://github.com/OsvaldoBC/challenge3.git
+- GITHub CLI: gh repo clone OsvaldoBC/challenge3
 
 
 ## Authors
